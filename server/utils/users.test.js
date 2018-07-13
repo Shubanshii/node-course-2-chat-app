@@ -45,7 +45,7 @@ describe('Users', () => {
     let userId = '5';
     let user = users.removeUser(userId);
 
-    expect(user).toBe(undefined);
+    expect(user).toBeFalsy();
     expect(users.users.length).toBe(3);
 
 
@@ -61,7 +61,7 @@ describe('Users', () => {
   it('should not find user', () => {
     let user = users.getUser('25');
 
-    expect(user).toBe(undefined);
+    expect(user).toBeFalsy();
   });
 
   it('should return names for node course', () => {
