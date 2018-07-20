@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key:
     secure: hfe8PIFlQRZvMHOuYun0sy3BhNN7dOvOLWeShNXUwZargTS+kJ3ZAwLq7zmXifP2PKfhlIiqepZxI5dw8Xx5jjH22AySvnNWrIMUnZoLv75ELqA9lsmwLKbExiRgIq7jS/taW+3gOXdxN2SaqMKiaa2TB9J5+fqydKR3UWMIxdnW7Zq0cBVSz0fIhrzphi7NqowRcysXRTfbRpj3jscLIKVbSkCioO+l0BPOJJHd+juo6ivP2VrY2ietyZPB2DZBxJ66qMyX2OjEBvkvdlcWqzBTOxPKy1QNSPh2uCIIHlP1hozhLmY9kg0WuTeO337aNwwR0EKWAfWhHK2tmAJamAlCfYrHfZYZKzD/ZqehD3p8N1U2FlhrkPU14D2wJ0mV/0dsnW5Kvyzt3HGO6XYSe1BBPtkD4sNdxOPjsp53NxmZXKpWmuJ3VzprxrYwjMNPjwCDBExmcmwRlFqXyyd+pn+wBPBtTAikeVkFlGmS1cotDHm3+PfLAt5glq/1lrGzLoPn58PGRwvwXIIPY514CJ9X/A+rTy3mDVEdnBRB0MD18TD8KIU57LUJvabCeB4WrR8vMtLEhxhknq87//Eu4XqhfB6FJTUoBjug4fthZyq30OaPFoJQJnpy0dJsjzS+3N/auIL85mQ7PqlGRyuzsJqNwQTzZuo26gJ/f/NM9DE=
-  app: https://thawing-spire-39636.herokuapp.com/
+  app: https://obscure-garden-94094.herokuapp.com
   on:
     repo: Shubanshii/node-course-2-chat-app
