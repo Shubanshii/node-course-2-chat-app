@@ -1,6 +1,6 @@
 {
   "name": "node-chat-app",
-  "version": "1.0.0",
+  "version": "10.4.0",
   "main": "index.js",
   "scripts": {
     "start": "node server/server.js",
